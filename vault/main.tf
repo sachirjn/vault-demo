@@ -16,8 +16,8 @@
 provider "vault" {
   # It is strongly recommended to configure this provider through the
   # environment variables:
-  address = "http://178.128.103.151:8200"
-  token = "s.09NeVoEwBUJbY373j4o2fEXJ"
+  address = ""
+  token = ""
   #    - VAULT_CACERT
   #    - VAULT_CAPATH
   #    - etc.  
